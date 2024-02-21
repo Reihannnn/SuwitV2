@@ -1,0 +1,62 @@
+@media only screen and (max-width: 750px) {
+  
+  .container {
+    max-width: 85%;
+    margin:10px  auto;
+    border-radius: 40px;
+  }
+
+  img {
+    width: 120px;
+    border-radius: 50%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  
+  .container {
+    max-width: 90%;
+    margin: 10px auto;
+    border-radius: 40px;
+    margin-left: 25px;
+  }
+
+  img {
+    width: 100px;
+    border-radius: 50%;
+  }
+
+  .hasil{
+    width: 200px;
+    padding: 4px;
+    top: -22px;
+  }
+  .penentuan{
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  
+  .container {
+    max-width: 95%;
+    margin: auto;
+    border-radius: 40px;
+    margin-left: 22px;
+  }
+
+  img {
+    width: 85px;
+    border-radius: 50%;
+  }
+
+  .hasil{
+    width: 200px;
+    padding: 4px;
+    top: -22px;
+  }
+  .penentuan{
+    font-size: 10px;
+  }
+}
+
